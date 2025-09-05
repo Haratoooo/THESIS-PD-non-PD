@@ -6,6 +6,7 @@ The dataset is organized into four subfolders under two main classes:
 → Label: 1
 │   ├── wave/
 │   └── spiral/
+
 └── Healthy/    
 → Label: 0
     ├── wave/

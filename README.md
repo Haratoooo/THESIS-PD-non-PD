@@ -1,5 +1,5 @@
 
-```markdown
+
 # Preprocessing for PD vs Healthy Handwriting Dataset
 
 This repository provides the **image preprocessing and augmentation** pipeline for the Parkinson’s Disease (PD) vs Healthy handwriting dataset.  
@@ -10,7 +10,7 @@ It prepares spiral and wave handwriting images for deep learning by:
 - Applying random on-the-fly augmentations (rotation, shift, shear, blur, Gaussian noise)  
 - Normalizing pixel values  
 
----
+```
 
 ## 📂 Dataset Structure
 

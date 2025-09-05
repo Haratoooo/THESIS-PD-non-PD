@@ -16,19 +16,18 @@ It prepares spiral and wave handwriting images for deep learning by:
 
 Organize the dataset as follows:
 
-```
+
 
 dataset/
 │
 ├── PD/
-│   ├── wave/
-│   └── spiral/
+│ ├── wave/
+│ └── spiral/
 │
 └── Healthy/
 ├── wave/
 └── spiral/
 
-````
 
 Each folder contains `.jpg`, `.jpeg`, or `.png` images.
 

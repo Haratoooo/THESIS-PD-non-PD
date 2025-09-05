@@ -1,12 +1,20 @@
 🗂️ Dataset Structure
 The dataset is organized into four subfolders under two main classes:
 /dataset/
-├── PD/              → Label: 1
+
+├── PD/  
+→ Label: 1
 │   ├── wave/
+
 │   └── spiral/
-└── Healthy/         → Label: 0
+
+└── Healthy/    
+→ Label: 0
+
     ├── wave/
+    
     └── spiral/
+    
 
 
 Each subfolder contains static handwriting images in .jpg, .jpeg, or .png format.

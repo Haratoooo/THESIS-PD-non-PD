@@ -32,7 +32,7 @@ dataset/
 Each folder contains `.jpg`, `.jpeg`, or `.png` images.
 
 ---
-
+```
 ## ⚡ Features
 
 - **Two preprocessing pipelines**:
@@ -44,7 +44,7 @@ Each folder contains `.jpg`, `.jpeg`, or `.png` images.
   - Healthy → `0`
 
 ---
-
+```
 ## 🛠️ Usage
 
 Run the preprocessing script:

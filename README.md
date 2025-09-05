@@ -1,5 +1,6 @@
 🗂️ Dataset Structure
 The dataset is organized into four subfolders under two main classes:
+
 /dataset/
 
 ├── PD/  
